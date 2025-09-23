@@ -34,18 +34,9 @@ To become a collaborative space where beginners, intermediates, and experts unit
 | Name               | Role / Strengths            | GitHub Username | Email           |
 |--------------------|-----------------------------|-----------------|-----------------|
 | Ebenezer Fuachie   | Founder / Backend / PM      | @Ebene-zer   | fuachiee717@gmail.com  |
-| Aaron Tetteh         | Backend Dev/ 
-Database Admin           | @taaron419     | taaron@st.ug.edu.gh        |
-| Kankam Frederick 
-Kwaku         | Backend dev/PM/ 
-Database Admin/ AI 
-& ML           | @FREDYK1
-     | kwekukankam@gmail.com         |
-| Ofori Richard       
-         |  Frontend Dev/PM
-          | @oforirichard123
-     |  oforir74444@gmail.com
-         |
+| Aaron Tetteh         | Backend Dev/ Database Admin | @taaron419     | taaron@st.ug.edu.gh |
+| Kankam Frederick Kwaku | Backend dev/PM/ Database Admin/ AI & ML  | @FREDYK1| kwekukankam@gmail.com  |
+| Ofori Richard       |  Frontend Dev/PM | @oforirichard123 |  oforir74444@gmail.com |
 | [Member 5]         | [Strengths/Focus]           | @[username]     | [email]         |
 | [Member 6]         | [Strengths/Focus]           | @[username]     | [email]         |
 | [Member 7]         | [Strengths/Focus]           | @[username]     | [email]         |
