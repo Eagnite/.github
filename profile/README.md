@@ -34,10 +34,8 @@ To become a collaborative space where beginners, intermediates, and experts unit
 | Name               | Role / Strengths            | GitHub Username | Email           |
 |--------------------|-----------------------------|-----------------|-----------------|
 | Ebenezer Fuachie   | Founder / Backend / PM      | @Ebene-zer   | fuachiee717@gmail.com  |
-| Kankam Frederick Kwaku | Backend dev/PM/ Database Admin/ AI & ML  | @FREDYK1| fkwekukankam@gmail.com  |
-| Ofori Richard       |  Frontend Dev/PM | @oforirichard123 |  oforir74444@gmail.com |
-| [Member 4]         | [Strengths/Focus]           | @[username]     | [email]         |
-| [Member 5]         | [Strengths/Focus]           | @[username]     | [email]         |
+| Lucius Jackson| Full stack / Mobile App Dev| @Luciuscoder| |
+
 
 
 *(Each member should update their row once onboarded.)*
