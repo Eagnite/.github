@@ -34,7 +34,7 @@ To become a collaborative space where beginners, intermediates, and experts unit
 | Name               | Role / Strengths            | GitHub Username | Email           |
 |--------------------|-----------------------------|-----------------|-----------------|
 | Ebenezer Fuachie   | Founder / Backend / PM      | @Ebene-zer   | fuachiee717@gmail.com  |
-| Lucius Jackson| Full stack / Mobile App Dev| @Luciuscoder| |
+| Lucius Jackson| Full stack / Mobile App Dev| @Lucius-coder| |
 
 
 
